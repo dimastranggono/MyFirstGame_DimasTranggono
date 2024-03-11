@@ -1,0 +1,15 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"/Users/dimasadi/Game Dev/Project Unreal/Unreal Projects/MyThirdPerson/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/HH/34OYU6X58SIP4WBRQA5P0K.uasset",
+				"/Users/dimasadi/Game Dev/Project Unreal/Unreal Projects/MyThirdPerson/Content/ThirdPerson/Maps/ThirdPersonMap.umap",
+				"/Users/dimasadi/Game Dev/Project Unreal/Unreal Projects/MyThirdPerson/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"/Users/dimasadi/Documents/Unreal Projects/MyThirdPerson/Content/StarterContent/Maps/StarterMap_BuiltData.uasset"
+			]
+		}
+	]
+}
